@@ -1,2 +1,4 @@
-# esiplab2020-neo4j
-ESIP Lab 2020 project - Brian Wee 
+# About
+This repository is for versioning the 'swap' database for import into neo4j. 
+
+Will likely expand beyond this purpose, but for now, that's all, folx.
